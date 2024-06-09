@@ -800,7 +800,7 @@
 	- počítače už jsou v šachu lepší než lidi, ale není to vyřešená hra – programy nehrajou 100% dobře, nevědí, jak hra dopadne
 	- dáma už je vyřešená hra, optimální strategie vede k remíze
 	- Go – strom hry se hodně větví, těžko se ohodnocuje stav hry; programy AlphaGo a AlphaGo Zero
-	- poker – prvek náhody, programy Deep Stack a Libratus
+	- poker – prvek náhody, programy DeepStack a Libratus
 	- fotbal – soutěž RoboCup
 
 ## 10. Strojové učení (rozhodovací stromy, regrese, zpětnovazební učení)
